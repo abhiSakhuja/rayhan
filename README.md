@@ -1,4 +1,4 @@
-HDB Resale Flat
+**Singapore HDB Resale Flat Use Case**
 
 Following questions were answered in this use case:
 
