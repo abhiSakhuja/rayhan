@@ -24,5 +24,7 @@ The solution contains two notebooks:
    
 **2. HDB_Resale_Price_Prediction_Premiums_Calculation.ipynb**
    In this notebook, premiums were calcuated for each of the text columns to build models. This technique had delivered high accuracy, low RMSE and low classification error and therefore, accepted.
+   
+**Note:** All 3 questions were answered in 2nd Notebook `HDB_Resale_Price_Prediction_Premiums_Calculation.ipynb`.
 
 **Download the dataset**: `https://data.gov.sg/dataset/resale-flat-prices`
