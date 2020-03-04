@@ -17,14 +17,9 @@ Resale Price: 550,800`
 
 To Solve these questions different models and methods were used:
 
-The solution contains two notebooks:
-
-**1. HDB_Resale_Price_Prediction_One_Hot_Encoder.ipynb**
-   In this notebook, one hot encoder was used to see how linear regression models predicts the price but high RMSE was observed and therefore, this technique was rejected.
+The solution contains a notebook:
    
-**2. HDB_Resale_Price_Prediction_Premiums_Calculation.ipynb**
-   In this notebook, premiums were calcuated for each of the text columns to build models. This technique had delivered high accuracy, low RMSE and low classification error and therefore, accepted.
-   
-**Note:** All 3 questions were answered in 2nd Notebook `HDB_Resale_Price_Prediction_Premiums_Calculation.ipynb`.
+**HDB_Resale_Price_Prediction_Premiums_Calculation.ipynb**
+In this notebook, premiums were calcuated for each of the text columns to build models. This technique had delivered high accuracy, low RMSE and low classification error and therefore, accepted.
 
 **Download the dataset**: `https://data.gov.sg/dataset/resale-flat-prices`
